@@ -1,6 +1,9 @@
 # AI-Robot-Bull-Game
-bull is running loose in the above square corral. The robotic rodeo bullfighter is meant to pen the bull, by getting
-it to chase them, and leading it to the square x so that it can be closed in. The rules are these:
+A bull is running loose in the above square corral. The robotic rodeo bullfighter is meant to pen the bull, by getting
+it to chase them, and leading it to the square x so that it can be closed in. 
+
+The rules are these:
+
 •The bull can only move up/down/left/right (limited by the walls/obstacles).
 •The robot can move in any of the eight immediate neighboring directions (limited by the walls/obstacles).
 •Each round, the robot moves, then the bull moves.
